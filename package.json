@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://deepakshakthi2003.github.io/Netflix-Clone-ReactJS-",
+  "homepage": ".",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
